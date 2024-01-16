@@ -24,4 +24,6 @@ class AppImages{
  static const  String coca_cola = "assets/images/Coca Cola Can.png";
  static const  String pepsi_can  = "assets/images/Pepsi Can.png";
  static const  String userImage  = "assets/images/userImage.png";
+ static const  String pament  = "assets/images/pament.png";
+ static const  String orederAccepted  = "assets/images/orderAccepted.png";
 }

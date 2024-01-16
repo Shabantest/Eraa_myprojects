@@ -1,5 +1,4 @@
 import 'dart:ui';
-
 import 'package:flutter/material.dart';
 class AppColors{
   static const  Color green=  Color.fromRGBO(83, 177, 117, 1);

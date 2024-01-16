@@ -23,6 +23,7 @@ class AppIcons{
  static  Icon help= Icon( Icons.help, size: 30,);
  static  Icon about= Icon( Icons.help_outline_sharp, size: 30,);
  static const Icon arrow_back= Icon(Icons.arrow_forward_ios, size: 20,);
+ static const Icon exit= Icon(FontAwesomeIcons.x, size: 24,);
 
 
 

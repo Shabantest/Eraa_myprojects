@@ -4,7 +4,7 @@ void main(){
 runApp(
      MaterialApp(
     home:
-  SplashScreen(),
+       SplashScreen(),
   ),
 );
 }

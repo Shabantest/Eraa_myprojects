@@ -29,6 +29,8 @@ class TextCustom {
   TextStyle(color: AppColors.green,fontSize: 30,fontWeight: FontWeight.w600 );
   static const number =
   TextStyle(color: AppColors.black,fontSize: 15,fontWeight: FontWeight.w600 );
+  static const checkout =
+  TextStyle(color: AppColors.black,fontSize: 24,fontWeight: FontWeight.w600);
 
 
 }
